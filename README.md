@@ -5,7 +5,7 @@ I am an entrepreneur, technology enthusiast and an expert in building software p
 
 I have led various teams in both the technology world and outside with my primary focus being on building leaders who can easily take over and replace me. Having or building my own knowledge of the areas I manage has been critical to my ability to succeed in my role.
 
-## What can I offer?
+## What I offer?
 * I'm excellent at identifying the companies requirements and the gaps
 * I get along well with almost everyone that I work with
 * Having a long and proven track record of creating teams that perform at a very high level
@@ -54,11 +54,18 @@ Heading the Bangalore team responsible for the companies SOA strategy and infras
 * Played an active role in a couple of diversity groups (Women in India & the LGBT network) 
 ### Technical Lead - iGate Global Solutions
 ---
-At iGate I was responsible for products we wrote for leading mobile manufacturer. The technologies involved were Java, J2ME & MAPI to connect to the Exchange servers.
+At iGate I was responsible for products we wrote for leading mobile manufacturer. The technologies involved were Java, J2ME & MAPI to connect to the Exchange servers. 
+* Joined iGate as a developer & was promoted to the tech lead in the first week
+* Making all technical decisions required to successfully deliver a project
+* Help other developers by pairing with them & providing guidance
+* Hire the right people into the team
+* Code
 
 ### Software Developer - Mindfire Solutions
 ---
 Created a product that was a Caching & Filtering Proxy server for Mac OS X & 9.
+* System design & architecture
+* Code
 
 ### Developer Intern - Infosys
 ---
@@ -71,10 +78,16 @@ Was part of a black ops development team inside Infosys that was responsible for
 ### Chef Owner - Huckleberry
 ---
 Founder of Huckleberry, a thin crust wood fired pizza place in Bangalore, the first of its kind. Had a successful exit.
+* Menu planning
+* Building a dynamic fun team
+* Cooking
+* Everything (plumber to an accountant)
 
 ### Founder - The Oil Collective
 ---
 Founded a company that sources, manufactures cold pressed & essential oils locally around Bangalore and markets them through retail & online channels.
+* Mentor & Adviser
+* Growth hacker
 
 ## Pre-Graduation Experience
 ### Software Developer - Indian Air Force
